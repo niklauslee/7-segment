@@ -1,0 +1,6 @@
+{
+  "name": "7-segment",
+  "version": "1.0.0",
+  "description": "Kaluma library for multi-digit 7-segment display (aka. FND - flexible numeric display)",
+  "main": "index.js"
+}
